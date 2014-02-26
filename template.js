@@ -2,7 +2,7 @@
  * grunt-init-big-jade-gists
  * https://gruntjs.com/
  *
- * Copyright (c) 2013 Aaron Jorbin 
+ * Copyright (c) 2014 Aaron Jorbin 
  * Licensed under the MIT license.
  */
 

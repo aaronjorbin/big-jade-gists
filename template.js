@@ -2,7 +2,7 @@
  * grunt-init-big-jade-gists
  * https://gruntjs.com/
  *
- * Copyright (c) 2013 Aaron Jorbin 
+ * Copyright (c) 2014 Aaron Jorbin 
  * Licensed under the MIT license.
  */
 
@@ -29,11 +29,11 @@ exports.warnOn = '*';
 exports.template = function(grunt, init, done) {
 
   init.process({}, [
-	// Prompt for these values.
-	init.prompt('name'),
-	init.prompt('description'),
-	init.prompt('version'),
-	init.prompt('licenses'),
+    // Prompt for these values.
+    init.prompt('name'),
+    init.prompt('description'),
+    init.prompt('version'),
+    init.prompt('licenses'),
     init.prompt('author_name'),
     init.prompt('author_email'),
     init.prompt('author_url'),

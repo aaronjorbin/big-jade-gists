@@ -79,7 +79,4 @@ window.onload = function() {
 
     go(cur);
 
-
-	var cur = 30;
-
 };
